@@ -30,6 +30,10 @@ Current implementation makes it possible to render each cube with its own positi
 which, according to the comment left by author, was adapted from: https://github.com/evanw/webgl-path-tracing/blob/master/webgl-path-tracing.js
 - "Hello Cube" example project that I've used to get started was made by **c2d7fa**: https://github.com/c2d7fa/opengl-cube
 
+### Inspiration
+- Dreams PS4 Umbra Ignite (Alex Evans): https://www.youtube.com/watch?v=u9KNtnCZDMI
+- Drawing MILLIONS of voxels on an integrated GPU with parallax ray marching (Douglas): https://www.youtube.com/watch?v=h81I8hR56vQ
+
 ----
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kallisto56)
